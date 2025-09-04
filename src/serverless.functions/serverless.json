@@ -1,0 +1,9 @@
+{
+  "endpoints": {
+    "hello-world": {
+      "file": "hello-world.js",
+      "method": "GET",
+      "path": "hello-world"
+    }
+  }
+}
