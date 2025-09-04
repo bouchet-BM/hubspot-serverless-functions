@@ -1,8 +1,10 @@
 {
-  "appFunctions": {
+  "runtime": "nodejs20.x",
+  "version": "1.0",
+  "endpoints": {
     "hello-world": {
-      "file": "hello-world.js",
-      "secrets": []
+      "method": "GET",
+      "file": "hello-world.js"
     }
   }
 }
