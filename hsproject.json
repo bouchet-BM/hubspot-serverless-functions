@@ -1,17 +1,5 @@
 {
   "name": "my-serverless-only",
   "srcDir": "src",
-  "platformVersion": "2025.1",
-  "components": [
-    {
-      "name": "app",
-      "type": "app",
-      "src": "app"
-    },
-    {
-      "name": "functions",
-      "type": "functions", 
-      "src": "functions"
-    }
-  ]
+  "platformVersion": "2025.1"
 }
