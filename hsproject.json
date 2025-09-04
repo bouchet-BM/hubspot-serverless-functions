@@ -11,7 +11,7 @@
     {
       "name": "functions",
       "type": "functions", 
-      "src": "serverless"
+      "src": "functions"
     }
   ]
 }
