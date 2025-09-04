@@ -1,7 +1,7 @@
 {
-  "name": "my-serverless-only",
-  "label": "My Serverless Only Project",
-  "description": "Clean serverless functions test",
+  "name": "benchmark-serverless-functions",
+  "label": "Benchmark Serverless Functions",
+  "description": "Clean serverless functions project with correct structure",
   "public": false,
   "scopes": ["content"]
 }
