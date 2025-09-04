@@ -1,9 +1,17 @@
 {
   "name": "benchmark-serverless-functions",
   "srcDir": "src",
-  "platformVersion": "2025.2",
+  "platformVersion": "2025.1",
   "components": [
-    { "name": "app", "type": "app", "src": "app" },
-    { "name": "functions", "type": "functions", "src": "serverless.functions" }
+    {
+      "name": "app",
+      "type": "app",
+      "src": "app"
+    },
+    {
+      "name": "functions",
+      "type": "functions",
+      "src": "serverless.functions"
+    }
   ]
 }
