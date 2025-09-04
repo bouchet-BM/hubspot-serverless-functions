@@ -1,0 +1,10 @@
+{
+  "runtime": "nodejs20.x",
+  "endpoints": {
+    "hello-world": {
+      "method": "GET",
+      "file": "hello-world.js",
+      "path": "hello-world"
+    }
+  }
+}
