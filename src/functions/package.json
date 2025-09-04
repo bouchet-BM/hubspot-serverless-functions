@@ -1,0 +1,10 @@
+{
+  "name": "hubspot-serverless-functions",
+  "version": "1.0.0",
+  "description": "HubSpot serverless functions",
+  "main": "index.js",
+  "dependencies": {},
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
