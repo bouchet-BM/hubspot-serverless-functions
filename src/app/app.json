@@ -1,0 +1,7 @@
+{
+  "name": "my-serverless-only",
+  "label": "My Serverless Only Project",
+  "description": "Clean serverless functions test",
+  "public": false,
+  "scopes": ["content"]
+}
