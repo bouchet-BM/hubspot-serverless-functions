@@ -1,5 +1,5 @@
 {
-  "name": "my-serverless-only",
+  "name": "benchmark-serverless-functions",
   "srcDir": "src",
   "platformVersion": "2025.2",
   "components": [
