@@ -1,8 +1,0 @@
-{
-  "appFunctions": {
-    "hello-world": {
-      "file": "hello-world.js",
-      "secrets": []
-    }
-  }
-}
